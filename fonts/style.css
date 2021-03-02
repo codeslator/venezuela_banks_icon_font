@@ -1,0 +1,186 @@
+@font-face {
+  font-family: 'venezuela_banks';
+  src:  url('./venezuela_banks.eot?vw1gek');
+  src:  url('./venezuela_banks.eot?vw1gek#iefix') format('embedded-opentype'),
+    url('./venezuela_banks.ttf?vw1gek') format('truetype'),
+    url('./venezuela_banks.woff?vw1gek') format('woff'),
+    url('./venezuela_banks.svg?vw1gek#venezuela_banks') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="vbank-"], [class*=" vbank-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'venezuela_banks' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.vbank-bcv:before {
+  content: "\e909";
+}
+.vbank-citibank-full:before {
+  content: "\e907";
+}
+.vbank-mibanco:before {
+  content: "\e900";
+}
+.vbank-banesco:before {
+  content: "\e901";
+}
+.vbank-bancrecer:before {
+  content: "\e902";
+}
+.vbank-bancoactivo:before {
+  content: "\e903";
+}
+.vbank-mibanco_full:before {
+  content: "\e906";
+}
+.vbank-100banco:before {
+  content: "\e905";
+}
+.vbank-mercantil:before {
+  content: "\e908";
+}
+.vbank-100banco_full:before {
+  content: "\e90d";
+}
+.vbank-bancamiga:before {
+  content: "\e911";
+}
+.vbank-bancamiga_full:before {
+  content: "\e912";
+}
+.vbank-bancaribe:before {
+  content: "\e914";
+}
+.vbank-bancaribe_full:before {
+  content: "\e918";
+}
+.vbank-bancoactivo_full:before {
+  content: "\e91e";
+}
+.vbank-bancoplaza:before {
+  content: "\e922";
+}
+.vbank-bancoplaza_full:before {
+  content: "\e926";
+}
+.vbank-bancrecer_full:before {
+  content: "\e92e";
+}
+.vbank-banesco_full:before {
+  content: "\e934";
+}
+.vbank-banfanb:before {
+  content: "\e938";
+}
+.vbank-bangente:before {
+  content: "\e93c";
+}
+.vbank-bangente_full:before {
+  content: "\e904";
+}
+.vbank-banplus:before {
+  content: "\e940";
+}
+.vbank-banplus_full:before {
+  content: "\e941";
+}
+.vbank-bav:before {
+  content: "\e944";
+}
+.vbank-bav_full:before {
+  content: "\e948";
+}
+.vbank-bdv1:before {
+  content: "\e951";
+}
+.vbank-bdv_full:before {
+  content: "\e956";
+}
+.vbank-bfc:before {
+  content: "\e95b";
+}
+.vbank-bicentenario:before {
+  content: "\e95f";
+}
+.vbank-bicentenario_full:before {
+  content: "\e964";
+}
+.vbank-bid:before {
+  content: "\e968";
+}
+.vbank-bid_full:before {
+  content: "\e96c";
+}
+.vbank-bnc:before {
+  content: "\e970";
+}
+.vbank-bnc_full:before {
+  content: "\e973";
+}
+.vbank-bod:before {
+  content: "\e977";
+}
+.vbank-bod_full:before {
+  content: "\e97b";
+}
+.vbank-bt:before {
+  content: "\e97f";
+}
+.vbank-bt_full:before {
+  content: "\e983";
+}
+.vbank-bvc:before {
+  content: "\e987";
+}
+.vbank-bvc_full:before {
+  content: "\e988";
+}
+.vbank-caroni:before {
+  content: "\e98c";
+}
+.vbank-caroni_full:before {
+  content: "\e98d";
+}
+.vbank-citibank:before {
+  content: "\e991";
+}
+.vbank-delsur:before {
+  content: "\e998";
+}
+.vbank-delsur_full:before {
+  content: "\e99d";
+}
+.vbank-exterior:before {
+  content: "\e9a0";
+}
+.vbank-exterior_full:before {
+  content: "\e9a4";
+}
+.vbank-mercantil_full:before {
+  content: "\e9a9";
+}
+.vbank-provincial:before {
+  content: "\e9af";
+}
+.vbank-provincial_full:before {
+  content: "\e9b3";
+}
+.vbank-sofitasa:before {
+  content: "\e9b4";
+}
+.vbank-sofitasa_full:before {
+  content: "\e9b8";
+}
